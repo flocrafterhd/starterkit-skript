@@ -15,7 +15,7 @@ command /starter:
             send "§l§cStarterItems§l§c §e>>>§e §a§Sie haben die Starter-Items erhalten!§o§a"   
         else:
             send "§l§cStarterItems§l§c §e>>>§e §c§oSie haben Ihre Starter-Items bereits erhalten!§o§c"
-
+            
 command /delstarter:
     permission: starter.clear.use
     trigger:
