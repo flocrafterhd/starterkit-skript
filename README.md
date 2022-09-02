@@ -1,10 +1,4 @@
-##########################Code##########################
-#Skript-Coding
-##########################
-#           by           #
-#      FloCrafterHD      #
-# flocrafterhd@proton.me #
-##########################
+
 command /starter:
     permission: starterkit.use
     trigger:
