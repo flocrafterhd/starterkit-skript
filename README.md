@@ -42,4 +42,4 @@ command /starterhelp:
         
 # by FloCrafterHD
 #Skript-Coding
-# Wichtig Bitte die datei starter.sk downloaden wenn sie diese Downloaden wollen
+# Wichtig Bitte die datei starter.sk downloaden und nicht die readme.md
