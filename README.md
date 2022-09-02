@@ -1,6 +1,4 @@
 # Starterkit Skript
-#Skript-Coding
-# by FloCrafterHD
 
 command /starter:
     permission: starterkit.use
@@ -41,3 +39,7 @@ command /starterhelp:
         send ""
         send "§l§aProject by FloCrafterHD"
         send "§f==========================================================================§f"
+        
+# by FloCrafterHD
+#Skript-Coding
+
