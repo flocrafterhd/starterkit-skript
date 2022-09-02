@@ -1,6 +1,6 @@
-# Wartungs Skript
+# Starterkit Skript
 #Skript-Coding
-#by FloCrafterHD
+# by FloCrafterHD
 
 command /starter:
     permission: starterkit.use
