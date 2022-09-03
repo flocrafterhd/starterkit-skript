@@ -16,9 +16,9 @@ command /starter:
             equip player with chain chestplate
             
             set {starter.items.%uuid of player%} to true
-            send "§l§cStarterItems§l§c §e>>>§e §a§lSie haben die Starter-Items erhalten!§o§a"   
+            send "§l§c[DeinServer]§l§c §e>>>§e §a§lSie haben die Starter-Items erhalten!§o§a"   
         else:
-            send "§l§cStarterItems§l§c §e>>>§e §c§oSie haben Ihre Starter-Items bereits erhalten!§o§c"
+            send "§l§c[DeinServer]§l§c §e>>>§e §c§oSie haben Ihre Starter-Items bereits erhalten!§o§c"
 command /starterhelp:
     permission: starterkit.help
     trigger:
