@@ -17,17 +17,8 @@ command /starter:
         else:
             send "§l§cStarterItems§l§c §e>>>§e §c§oSie haben Ihre Starter-Items bereits erhalten!§o§c"
 
-command /delstarter:
-    permission: starter.clear.use
-    trigger:
-        if {starter.items.%uuid of player%} is true:
-            delete {starter.items.%uuid of player%}
-            send "§l§cStarterItems§l§c §e>>>§e §a§oDie Starter Items Wurden aus Ihrem Inv Gelöscht (Sie können die Starter-Items immer wieder neu holen!)§o§a"
-        else:
-            send "§l§cStarterItems§l§c §e>>>§e §c§oSie haben ihre Starter-Items bereits zurückgesetzt!§o§c"
-
 command /starterhelp:
-    permission: starter.use
+    permission: starterkit.help
     trigger:
         send "§f==========================================================================§f"
         send ""
@@ -43,3 +34,8 @@ command /starterhelp:
 # by FloCrafterHD
 #Skript-Coding
 # Wichtig Bitte die datei starter.sk downloaden und nicht die readme.md
+
+# Permissions
+starterkit.use
+starterkit.help
+
