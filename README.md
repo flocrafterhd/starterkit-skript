@@ -10,7 +10,7 @@
 # Items Bearbeiten?
 die Items können in dem code bearbeitet werden
 
-Hier können sie dies Bearbeiten:
+Hier können sie wenn sie wollen die Items ändern:
 
         # hier können sie die Starter Items setzen
           { give 1 stone sword to player
