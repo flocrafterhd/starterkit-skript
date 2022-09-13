@@ -7,7 +7,7 @@ command /starter:
     permission: starterkit.use
     trigger:
         if {starter.items.%uuid of player%} is not set:
-        # hier können sie die Starter Items ändern
+        # hier können sie die Starter Items setzen
             give 1 stone sword to player
             give 1 stone axe to player
             give 1 stone pickaxe to player
