@@ -8,9 +8,8 @@
 
 /starterhelp = starterkit.help
 # Items Bearbeiten?
-die Items können in dem code bearbeitet werden
+Die Items können in dem code von starter.sk bearbeitet werden
 
-Hier können sie wenn sie wollen die Items ändern:
 
         # hier können sie die Starter Items setzen
           { give 1 stone sword to player
