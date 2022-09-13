@@ -1,6 +1,5 @@
 # Starterkit Skript
         
-# by FloCrafterHD
 #Skript-Coding
 # Wichtig Bitte die datei starter.sk downloaden und nicht die readme.md
 !
