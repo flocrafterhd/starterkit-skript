@@ -7,4 +7,6 @@
 /starter = starterkit.use                                
 
 /starterhelp = starterkit.help
+# Items Bearbeiten?
+die Items können in dem code bearbeitet werden
 
