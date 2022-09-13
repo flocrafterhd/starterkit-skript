@@ -12,7 +12,7 @@ die Items können in dem code bearbeitet werden
 
 Hier können sie dies Bearbeiten:
 
-        #hier können sie die Starter Items setzen
+        # hier können sie die Starter Items setzen
           { give 1 stone sword to player
             give 1 stone axe to player
             give 1 stone pickaxe to player
